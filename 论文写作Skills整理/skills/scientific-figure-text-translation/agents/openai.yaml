@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scientific Figure Text Translation"
+  short_description: "Translate paper figure labels without font drift"
+  default_prompt: "Use $scientific-figure-text-translation to replace or translate labels in this scientific figure, preferring editable source files over generative text rendering."

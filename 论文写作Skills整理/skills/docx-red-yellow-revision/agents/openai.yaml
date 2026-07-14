@@ -1,0 +1,4 @@
+interface:
+  display_name: "DOCX Revision Markup"
+  short_description: "Red old text and yellow new text in Word"
+  default_prompt: "Edit this .docx with visible red-old and yellow-new revision markup, keeping formatting and validating the result."

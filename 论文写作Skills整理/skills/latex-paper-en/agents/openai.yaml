@@ -1,0 +1,4 @@
+interface:
+  display_name: "LaTeX Paper EN"
+  short_description: "Compile, review, revise, clean, and export English LaTeX papers"
+  default_prompt: "Use $latex-paper-en to compile, review, revise, clean, or export my English LaTeX paper project, infer the smallest matching module, and return source-preserving findings or validated outputs."

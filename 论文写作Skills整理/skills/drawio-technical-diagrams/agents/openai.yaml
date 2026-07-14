@@ -1,0 +1,4 @@
+interface:
+  display_name: "Draw.io Technical Diagrams"
+  short_description: "Generate verified draw.io technical route diagrams"
+  default_prompt: "Use $drawio-technical-diagrams to create a verified editable .drawio technical route diagram."
